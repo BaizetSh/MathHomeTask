@@ -1,0 +1,8 @@
+C:\Users\Baizet\source\repos\MathHomeTask\MathHomeTask\bin\Debug\MathHomeTask.exe.config
+C:\Users\Baizet\source\repos\MathHomeTask\MathHomeTask\bin\Debug\MathHomeTask.exe
+C:\Users\Baizet\source\repos\MathHomeTask\MathHomeTask\bin\Debug\MathHomeTask.pdb
+C:\Users\Baizet\source\repos\MathHomeTask\MathHomeTask\obj\Debug\MathHomeTask.csproj.AssemblyReference.cache
+C:\Users\Baizet\source\repos\MathHomeTask\MathHomeTask\obj\Debug\MathHomeTask.csproj.SuggestedBindingRedirects.cache
+C:\Users\Baizet\source\repos\MathHomeTask\MathHomeTask\obj\Debug\MathHomeTask.csproj.CoreCompileInputs.cache
+C:\Users\Baizet\source\repos\MathHomeTask\MathHomeTask\obj\Debug\MathHomeTask.exe
+C:\Users\Baizet\source\repos\MathHomeTask\MathHomeTask\obj\Debug\MathHomeTask.pdb
